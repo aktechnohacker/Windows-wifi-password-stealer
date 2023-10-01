@@ -4,10 +4,13 @@
 
 
 
-<h1 align="center">      Windows wifi-password stealer                     </h1>
+<h1 align="center">     Basic Port Scanner                    </h1>
 
-<p align="center">  <img height="300" width="570" src="https://user-images.githubusercontent.com/55875525/158027212-bc956561-fc05-44dd-b884-aa7293a9a001.jpg" > 
+<p align="center">  <img height="300" width="670" src="https://media.licdn.com/dms/image/C5612AQERPIJnL3OE7A/article-cover_image-shrink_600_2000/0/1600153501704?e=2147483647&v=beta&t=CpoS9WVjbkVcZjbLc2nSpNDL6_D8aFIR073RNrF4Pts" > 
 
+<h2></h2>
 
-<h4>* Steal saved wifi passwords in a computer (x64-bit).</h4>
+<h4>* Simple Python3 port scanner <br>
+
+Simply scans for open ports on a given IP address..</h4>
 
